@@ -9,11 +9,9 @@
   <br>
   💻 I love writing code and learning everything about it.  
   <br>
-  🔬 I’m currently working on DevOps.  
+  📚 I’m currently learning how to build real-world working websites with MERN.  
   <br>
-  📚 I’m currently learning how to build an E-Commerce Website with MERN.  
-  <br>
-  📫 How to reach me: <a href="mailto:ykacn5133@gmail.com">ykacn5133@gmail.com</a>  
+  📫 How to reach me: <a href="mailto:yunuskhanmohammad93@gmail.com.com">yunuskhanmohammad93@gmail.com</a>  
 </p>
 
 <hr>
