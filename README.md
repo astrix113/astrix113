@@ -9,7 +9,7 @@
   <br>
   💻 I love writing code and learning everything about it.  
   <br>
-  📚 I’m currently learning how to build real-world working websites with MERN.  
+  📚 I’m currently building Velocity: The spend management platform that accelerates  businesses.  
   <br>
   📫 How to reach me: <a href="mailto:yunuskhanmohammad93@gmail.com.com">yunuskhanmohammad93@gmail.com</a>  
 </p>
